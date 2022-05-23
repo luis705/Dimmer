@@ -1,0 +1,11 @@
+# Arquivos de configuração de editores
+*/.vscode
+
+# Arquivos de compilação
+*.hex
+*.obj
+
+# Arquivos de software de projetos
+*.gbr
+dimmer/dimmer-backups/*
+
